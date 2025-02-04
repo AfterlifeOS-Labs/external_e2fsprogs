@@ -130,7 +130,7 @@ cc_binary {
     },
     no_full_install: true,
     stem: "mke2fs",
-    visibility: ["//packages/modules/Virtualization/microdroid"],
+    visibility: ["//packages/modules/Virtualization/build/microdroid"],
 }
 
 //##########################################################################
